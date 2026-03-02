@@ -1,5 +1,3 @@
-package SamplePDF1;
-
 import java.util.*;
 
 public class Easy1 {
